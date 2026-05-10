@@ -1,8 +1,10 @@
 # Hey there 👋
 I'm Barbara - Business Analyst focused on process optimization, BPMN modeling, data analysis, SQL, and business automation
+
 Я Варвара - Бизнес-аналитик, специализирующийся на оптимизации процессов, BPMN-моделировании, анализе данных, SQL и автоматизации бизнес-процессов.
   
 This profile is where I upload study projects, analytics real cases, experiments and things I'm currently work on it
+
 Здесь я публикую учебные проекты, реальные кейсы, эксперименты и то, над чем сейчас работаю.
 
 ---
