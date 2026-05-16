@@ -24,7 +24,8 @@ This profile is where I upload study projects, analytics real cases, experiments
 
 - 🎓 Business Informatics student  
   Студент направления «Бизнес-информатика»
-- 📊 Interested in Business and System Analysis 
+- 📊 Interested in Business and System Analysis
+
   Интересуюсь Бизнес и Системной аналитикой
 - ☕ Coffee enjoyer  
   Люблю кофе
